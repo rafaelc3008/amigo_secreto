@@ -25,12 +25,18 @@ JavaScript: Lógica del sorteo y manipulación del DOM.
 📂 Estructura del Proyecto
 
 📁 AmigoSecreto/
+
 ├── index.html    # Página principal
+
 ├── style.css     # Estilos de la aplicación
+
 ├── app.js        # Lógica del sorteo y funciones
+
 ├── assets/       # Carpeta de imágenes
-│   ├── amigo_secreto.png  # Imagen representativa del sorteo
-│   ├── circulo_juego.png  # Ícono para sorteo
+
+│       ├── amigo_secreto.png  # Imagen representativa del sorteo
+
+│       ├── circulo_juego.png  # Ícono para sorteo
 
 📖 Instalación y Uso
 
